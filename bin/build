@@ -1,3 +1,0 @@
-#! /usr/bin/env bash
-
-./bin/post-to-json posts/*.md > _data.json
