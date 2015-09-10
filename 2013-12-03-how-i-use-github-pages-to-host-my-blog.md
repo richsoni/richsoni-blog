@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: [coding]
-avatar: '/assets/images/blog/github_pages_small.png'
-hero: '/assets/images/blog/github_pages.png'
+avatar: 'images/blog/github_pages_small.png'
+hero: 'images/blog/github_pages.png'
 tags: coding
 blurb: 'The experience is painless, and fruitful.  It is useful for a multitude of purposes'
 title: 'Using Github Pages To Host Your Blog'

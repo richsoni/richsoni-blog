@@ -2,8 +2,8 @@
 title:  'Listening to Bob Dylan Can Inspire Improved Health and Wellbeing'
 layout: post
 categories: [Individualism]
-avatar:   '/assets/images/blog/bringing-it-all-back-home.jpg'
-hero:   '/assets/images/blog/bringing-it-all-back-home.jpg'
+avatar:   'images/blog/bringing-it-all-back-home.jpg'
+hero:   'images/blog/bringing-it-all-back-home.jpg'
 tags: [music, bob dylan, individualism]
 revision: 14
 blurb: 'Get inspired with a quote from each song on his album Bringing It All Back Home'

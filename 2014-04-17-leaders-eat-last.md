@@ -3,8 +3,8 @@ layout: post
 date: 2014-04-17
 title: Simon Sinek Reveals Why Some Teams Pull Together Better Than Others In His Latest Book 'Leaders Eat Last'
 categories: [book reviews, leadership]
-avatar:   '/assets/images/blog/leaders-eat-last.jpg'
-hero:   '/assets/images/blog/leaders-eat-last.jpg'
+avatar:   'images/blog/leaders-eat-last.jpg'
+hero:   'images/blog/leaders-eat-last.jpg'
 tags: [leadership, book reviews, self development, teamwork]
 revision: 14
 blurb: 'A book that lived up to my expectations'
@@ -44,7 +44,7 @@ This article showcases a handful of concepts plucked from the notes I took while
     <span >Bonus: Nerd Facts</span>
   </h4>
   <p>In 214 pages, I highlighted 209 excerpts.</p>
-  <img style='width: 100%' src='/assets/images/blog/leaders_eat_last_highlights.png'/>
+  <img style='width: 100%' src='images/blog/leaders_eat_last_highlights.png'/>
   <p>
   As you can see the highlights are fairly even.
   There are some select parts that I felt went off topic for this book.

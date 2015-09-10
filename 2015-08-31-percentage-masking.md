@@ -3,8 +3,8 @@ layout: post
 date: 2015-08-31
 title: Percentage Masking
 categories: [negotiation]
-avatar: '/assets/images/blog/percent-mask-hero.jpg'
-hero:   '/assets/images/blog/percent-mask-header.jpg'
+avatar: 'images/blog/percent-mask-hero.jpg'
+hero:   'images/blog/percent-mask-header.jpg'
 tags:  [negotiation]
 blurb: Maneuvering this tactic maximizes favorable outcomes in negotiations
 revision: 14

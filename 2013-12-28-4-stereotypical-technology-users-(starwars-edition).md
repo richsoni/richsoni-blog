@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: [Technology]
-avatar: '/assets/images/blog/han.jpeg'
-hero: '/assets/images/blog/star-wars-boba-fett.jpg'
+avatar: 'images/blog/han.jpeg'
+hero: 'images/blog/star-wars-boba-fett.jpg'
 tags: [technology, starwars]
 blurb: 'I am sure you will know someone that fits the mold'
 title: '4 Stereotypical Technology Users (Starwars Edition)'
@@ -23,7 +23,7 @@ Instead, I offer a new model based upon comparing personal technology outlooks t
 <hr>
 
 # 1. Jawa ( The Scavenger )
-<img class='img-responsive' src='/assets/images/blog/jawa.gif'/>
+<img class='img-responsive' src='images/blog/jawa.gif'/>
 
 > "Hey, what are you trying to push on us"
 > ~ Uncle Owen
@@ -46,7 +46,7 @@ Don't laugh to hard though, all you Non-Jawas, because this person knows a lot m
 
 # 2. Boba Fett ( the gargoyle )
 
-<img class='img-responsive' src='/assets/images/blog/bobafett2.jpeg'/>
+<img class='img-responsive' src='images/blog/bobafett2.jpeg'/>
 
 > "Boba Fett! Boba Fett Where?"
 > ~ Han Solo
@@ -68,7 +68,7 @@ They look just like Boba Fett while walking down the street with all of their ge
 
 # 3. Han Solo ( the hunka junker )
 
-<img class='img-responsive' src='/assets/images/blog/han_falcon.jpg'/>
+<img class='img-responsive' src='images/blog/han_falcon.jpg'/>
 
 > "What a piece of junk"
 > ~ Luke Skywalker
@@ -87,7 +87,7 @@ He is mega attached with them, and will give them an old slap if they need it.
 
 # 4. Anakin Skywalker ( the power user )
 
-<img class='img-responsive' src='/assets/images/blog/anakin.jpg'/>
+<img class='img-responsive' src='images/blog/anakin.jpg'/>
 
 > "Qui-Gon told me to stay in this cockpit, and that's what I'm going to do!"
 > ~ Anakin
