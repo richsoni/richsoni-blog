@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: [Productivity]
-avatar:   'images/beatles.jpg'
-hero:   'images/beatles.jpg'
+avatar:   '/blog/posts/images/beatles.jpg'
+hero:   '/blog/posts/images/beatles.jpg'
 tags: [Productivity]
 revision: 14
 blurb: 'Learn a technique from once of the most creative groups that has ever lived'

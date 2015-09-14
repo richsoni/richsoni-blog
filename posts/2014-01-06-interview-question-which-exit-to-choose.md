@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: [Coding]
-avatar: 'images/road_small.jpeg'
-hero:   'images/road_big.jpg'
+avatar: '/blog/posts/images/road_small.jpeg'
+hero:   '/blog/posts/images/road_big.jpg'
 tags: [Coding, Interview Questions]
 blurb: 'If you need something the interviewee has not heard before'
 title: 'Interview Question: Which Exit To Choose'
@@ -28,7 +28,7 @@ From `SP` at which distance is it faster to go back to `E1` instead of going for
 <button onclick="$('#answer').show()"> Show Answer </button>
 <div id='answer' style='display:none'>
   **If `D2` is > 1/4 of `D3` then ``E1`` is faster.**
-  <img class='img-responsive' src='images/road.png'/>
+  <img class='img-responsive' src='/blog/posts/images/road.png'/>
 
 ### Note that:
 

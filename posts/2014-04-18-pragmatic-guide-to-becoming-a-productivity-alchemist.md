@@ -3,8 +3,8 @@ layout: post
 date: 2014-04-18
 title: Pragmatic Guide To Becoming A Productivity Alchemist
 categories: [productivity]
-avatar:   'images/alchemy.jpg'
-hero:   'images/alchemy.jpg'
+avatar:   '/blog/posts/images/alchemy.jpg'
+hero:   '/blog/posts/images/alchemy.jpg'
 tags: [productivity]
 revision: 14
 blurb: 'My personal regiment will boost make you into an efficiency guru'
@@ -24,7 +24,7 @@ Productivity is not just about getting more things done; it is also about perfor
 ## ☯ Yin and Yang of Distraction ☯
 
 <div class='col-md-5 image inline' style='float:right; margin:auto auto'>
-  <img class='img-responsive'  src='images/distraction.jpg' />
+  <img class='img-responsive'  src='/blog/posts/images/distraction.jpg' />
   <span class='caption' href=''></span>
 </div>
 
@@ -135,7 +135,7 @@ Pomodoro trains us to alternate between chunks of work and short breaks.
 **The World's Most Consise Pomodoro Recipe**
 
 <div class='col-md-5 image inline' style='float:right; margin:auto auto'>
-  <img class='img-responsive'  src='images/pomodoro.jpg' />
+  <img class='img-responsive'  src='/blog/posts/images/pomodoro.jpg' />
   <span class='caption' href=''></span>
 </div>
 
