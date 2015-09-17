@@ -11,7 +11,6 @@ date: 2013-12-28
 
 # The Gist
 > "Hokey religions and ancient weapons are no match for a good blaster at your side, kid."
-
 > ~ Han Solo
 
 We all know people, or may even ourselves, fall into certain stereotypes regarding technology use.  

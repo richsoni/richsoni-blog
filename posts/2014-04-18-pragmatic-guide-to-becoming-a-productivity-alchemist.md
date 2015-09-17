@@ -13,7 +13,6 @@ blurb: 'My personal regiment will boost make you into an efficiency guru'
 # Introduction
 
 > Productivity is being able to do things that you were never able to do before
-
 > ~ Franz Kafka
 
 Achieving maximum productivity is a consequence of efficiently managing distraction.
@@ -120,7 +119,6 @@ When working *off cycle*, only internal distractions remain, which can be tamed 
 ## Pomodoro Technique
 
 > The way we measure productivity is flawed. People checking their BlackBerry over dinner is not the measure of productivity.
-
 > ~ Tim Ferris
 
 Without external distraction, we have the potential to control how productive we are.
@@ -174,7 +172,6 @@ It has many nuggets of information that can be used to refine the technique.
 ## Zen Mode
 
 >  We only have a certain amount of decision making capability in any given day
-
 >  ~ Neil Strauss
 
 When in the zone, any distraction compromises valuable productivity energy.
@@ -296,7 +293,6 @@ By revising the plan during the break, the big picture is continually brought ba
 ## Don't Break Pomodoros At All Costs
 
 >  The Atomic Unit of time is a Pomodoro.  A Pomodoro is Indivisible 
-
 > ~ Francesco Cirillo (Inventor of Pomodoro)
 
 *Pomodoros should never be paused, and never be stopped.*

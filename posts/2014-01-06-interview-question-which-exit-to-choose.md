@@ -25,9 +25,9 @@ From `SP` at which distance is it faster to go back to `E1` instead of going for
 
 # The Solution
 
-<button onclick="$('#answer').show()"> Show Answer </button>
+<button onclick="document.getElementById('answer').style.display = 'block'"> Show Answer </button>
 <div id='answer' style='display:none'>
-  **If `D2` is > 1/4 of `D3` then ``E1`` is faster.**
+  <i>If `D2` is > 1/4 of `D3` then ``E1`` is faster.</i>
   <img class='img-responsive' src='/blog/posts/images/road.png'/>
 
 ### Note that:
@@ -41,6 +41,7 @@ From `SP` at which distance is it faster to go back to `E1` instead of going for
 
 
 </div>
+
 # In Conclusion
 
 Its about how the interviewee answers the question, not the answer they give.  

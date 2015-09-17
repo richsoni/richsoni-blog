@@ -23,7 +23,6 @@ Change is scary, but the reward is well worth it.
 ---
 # Let Signals Cross
 > "(Mental) models have to come from multiple disciplines — because all the wisdom of the world is not to be found in one little academic department
-
 > ~ Charlie Munger [(source)](http://ycombinator.com/munger.html)"
 
 [Two Posts Ago](/when-creating-anything%2C-think-like-the-beatles), I showed how to apply The Beatles' songwriting technique when decision making.
