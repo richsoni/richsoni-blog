@@ -7,6 +7,7 @@ tags: coding
 blurb: 'The experience is painless, and fruitful.  It is useful for a multitude of purposes'
 title: 'Using Github Pages To Host Your Blog'
 date: 2013-12-03
+depricated: true
 ---
 
 # Its Free and Easy

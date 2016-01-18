@@ -1,0 +1,36 @@
+#! /usr/bin/env ruby
+
+if ARGV.length != 1
+  puts "USAGE: newPost {name}"
+  exit
+end
+
+time=Time.now.strftime("%Y-%m-%d")
+fileTitle=ARGV[0]
+  .gsub(/\s/, '-')
+  .gsub('/', '-')
+  .downcase
+file="posts/#{time}-#{fileTitle}.md"
+
+template = [
+"---",
+"layout: post",
+"date: #{time}",
+"title: #{ARGV[0]}",
+"categories: []",
+"avatar: '/blog/posts/images/tk.jpg'",
+"hero:   '/blog/posts/images/tk.jpg'",
+"tags:  []",
+"blurb: tk",
+"revision: 1",
+"---"
+]
+
+
+
+`touch #{file}`
+puts "wrote #{file}"
+template.map {|t|
+  `echo #{t} >> #{file}`
+}
+puts `cat #{file}`
