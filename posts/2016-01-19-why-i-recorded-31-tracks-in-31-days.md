@@ -42,15 +42,15 @@ Lets get to it!
 
 Here are the steps I followed each night:
 
-* Arrangement: Learn The Chord Changes
-* Arrangement: Learn Some Lyrics From Each Section
-* Arrangement: Learn Some Of The Melody Notes
-* Arrangement: Take A Break
-* Arrangement: Find Your Key
-* Arrangement: Find Your Chords / Strum Pattern
-* Delivery: Learn All The Lyrics
-* Delivery: Discover Your Delivery
-* Delivery: Capture The Performance For Future Reference
+1. Arrangement: Learn The Chord Changes
+1. Arrangement: Learn Some Lyrics From Each Section
+1. Arrangement: Learn Some Of The Melody Notes
+1. Arrangement: Take A Break
+1. Arrangement: Find Your Key
+1. Arrangement: Find Your Chords / Strum Pattern
+1. Delivery: Learn All The Lyrics
+1. Delivery: Discover Your Delivery
+1. Delivery: Capture The Performance For Future Reference
 
 The next sections provide some advice/explanation for each step.
 
