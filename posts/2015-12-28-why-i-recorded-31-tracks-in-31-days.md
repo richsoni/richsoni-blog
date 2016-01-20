@@ -2,11 +2,11 @@
 layout: post
 date: 2015-12-28
 title: A Recipe For Arranging/Learning Impressive Cover Songs
-categories: []
-avatar: /blog/posts/images/tk.jpg
-hero: /blog/posts/images/tk.jpg
-tags: []
-blurb: tk
+categories: [music diy songwriting guitar]
+avatar: /blog/posts/images/cover-songs.png
+hero: /blog/posts/images/cover-songs.png
+tags: [music diy songwriting guitar]
+blurb: Great covers are classy
 revision: 10
 ---
 
@@ -20,7 +20,7 @@ Since I began playing guitar I have use covers as a learning tool.
 The tool still serves me well.
 I enjoy playing and arranging covers, and I constantly learn from the practice.
 
-In December 2015, I executed a rigorous cover song project called Dylcember.
+In December 2015, I executed a rigorous cover song project called [Dylcember (check it out here)](https://soundcloud.com/richsoni/sets/my-dylcember).
 The premise was to record and post 31 Bob Dylan Cover Songs in the month (one track per day).
 Even with my strong knowledge of Bob Dylan's song catalog, arranging and recording a cover per day was ambitious.
 Especially having a 3 hour commute to a full time job, and family to spend time with during the holiday season.
