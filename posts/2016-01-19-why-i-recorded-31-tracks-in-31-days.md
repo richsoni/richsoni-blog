@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-01-16
+date: 2016-01-19
 title: A Recipe For Arranging/Learning Impressive Cover Songs
 categories: [music diy songwriting guitar]
 avatar: /blog/posts/images/cover-songs.png
