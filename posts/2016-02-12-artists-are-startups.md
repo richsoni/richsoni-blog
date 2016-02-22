@@ -26,8 +26,9 @@ Here are some better ways to measure (not necessarily accurate numbers, or the o
 
 Startup artists must focus on rapid growth.
 The strategies above should only be executed if they answer the following:
-  1. does what we are doing have any growth potential?
-  1. if so, are we doing everything we can to make sure we have that growth?
-  1. is it the least amount of work we can do to get the most new fans?
+
+1. does what we are doing have any growth potential?
+1. if so, are we doing everything we can to make sure we have that growth?
+1. is it the least amount of work we can do to get the most new fans?
 
 If these questions cannot be answered the activity is [just playing house](http://paulgraham.com/before.html).
