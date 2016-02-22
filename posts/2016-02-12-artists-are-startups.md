@@ -7,7 +7,7 @@ tags: []
 revision: 2
 ---
 
-An artist focused on fanbase growth tkl is a *startup artist*.
+An artist focused on fanbase growth is a *startup artist*.
 This can be determined by the following question: Would receiving 1,000,000 fans overnight solve most of your problems?
 If they answer yes, they are a startup artist.
 
