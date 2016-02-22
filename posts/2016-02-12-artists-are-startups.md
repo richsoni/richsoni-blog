@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-02-12
+date: 2016-02-22
 title: Artists Are Startups
 categories: []
 tags: []
