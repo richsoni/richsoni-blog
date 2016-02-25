@@ -15,7 +15,7 @@ I know, and believe this.
 
 While listening to the Tim Ferriss podcast with Seth Godin, my mind wandered to these questions:
 
-* Where would I like to be failing?
-* Am I failing enough at it?
+1. Where would I like to be failing?
+1. Am I failing enough at it?
 
 Having answers to these questions is important to know at all times.
