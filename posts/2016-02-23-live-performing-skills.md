@@ -3,10 +3,7 @@ layout: post
 date: 2016-02-23
 title: Thoughts On Audience Attention
 categories: []
-avatar: /blog/posts/images/tk.jpg
-hero: /blog/posts/images/tk.jpg
 tags: []
-blurb: tk
 revision: 1
 ---
 
