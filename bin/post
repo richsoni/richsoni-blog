@@ -1,4 +1,2 @@
-#! /usr/bin/env ruby
-
-files = `ls posts`.split
-exec "vim posts/#{files.last}"
+#! /usr/bin/env bash
+$EDITOR posts/`ls posts | tail -n 1`
