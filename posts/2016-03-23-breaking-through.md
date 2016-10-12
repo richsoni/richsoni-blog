@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2016-03-23
-title: breaking-through
+title: Breaking Through
 categories: []
 tags: []
 revision: 1

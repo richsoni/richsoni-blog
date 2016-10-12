@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2016-02-25
-title: i-write-songs-for-myself
+title: I Write Songs For Myself
 categories: []
 tags: []
 revision: 1
