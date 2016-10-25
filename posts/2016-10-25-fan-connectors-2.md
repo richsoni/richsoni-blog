@@ -4,7 +4,7 @@ date: 2016-10-25
 categories: [music business live fans]
 tags: []
 revision: 1
-title: Fan Connectors pt.2
+title: Fan Connectors: Part 2
 ---
 
 In a [previous post](/posts/2016-10-07-fan-connectors.html), I found two questions about music discovery which I wanted to explore.
@@ -16,7 +16,7 @@ I conducted a survey both online and in person soliciting the following question
 There where 30 people surveyed so far.
 The results are posted below:
 
-<img src='../images/10-20-1-survey-results' />
+<img src='/blog/posts/images/10-20-1-survey-results' />
 
 A few interesting points:
 * I found one maven who found rap mixtapes with a special app for leaking mixtapes
