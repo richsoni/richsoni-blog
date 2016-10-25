@@ -4,7 +4,7 @@ date: 2016-10-25
 categories: [music business live fans]
 tags: []
 revision: 1
-title: Fan Connectors: Part 2
+title: Fan Connectors- Part 2
 ---
 
 In a [previous post](/posts/2016-10-07-fan-connectors.html), I found two questions about music discovery which I wanted to explore.
