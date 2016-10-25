@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2016-10-07
-categories: []
+categories: [music business live fans]
 tags: []
 revision: 1
 title: What Are The Fan Connectors?
@@ -9,7 +9,7 @@ title: What Are The Fan Connectors?
 
 For a while I have been playing out at restaurants and breweries.
 These shows are great because the venue will pay you, and there is no tickets to sell to your fans.
-The problem I noticed is I do not acquire any new fans in these situations.
+The problem I noticed is I do not acquire many new fans in these situations.
 
 This carried my thoughts to an idea presented by Malcolm Gladwell in his book: The Tipping Point.
 I have a hunch that people are too saturated with new great music these days, and they rely on filters to receive it.
